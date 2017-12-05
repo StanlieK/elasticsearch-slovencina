@@ -3197,7 +3197,7 @@ univerzita, škola
 banka, peňažný ústav
 dokument, papier
 lebo, pretože, z dôvodu
-aparát, fax, mobil, telefón
+aparát, fax, mobil, telefón, smartfón, smartphone, inteligetný telefón
 hudba, muzika
 díler, obchodník, obchodný zástupca, predavač
 hviezda, slnko
